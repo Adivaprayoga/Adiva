@@ -1,2 +1,12 @@
-<h2 align="center">Hi 👋, I'm Adiva Prayoga</h2>
-<h3 align="center">A random guy who do code for a living</h3>
+### Who is this?
+
+
+<p align="left">
+  <br>
+  <samp>
+    Hello, I'm Adiva Prayoga
+    Random guy who do code for a living.<br>
+  </samp>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=adivaprayoga&show_icons=true)
+</p>
