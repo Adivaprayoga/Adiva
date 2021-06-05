@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hello, I'm Adiva Prayoga<br>
-    just a random guy who do code for a living.<br>
+    Just a random guy who do code for a living.<br>
     I also do design and drawing sometimes
   </samp>
   
