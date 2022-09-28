@@ -1,6 +1,4 @@
-### Who is this?
 <p align="left">
-  <br>
   <samp>
     Hello, I'm Adiva Prayoga<br>
     Just a random guy who do code for a living<br>
