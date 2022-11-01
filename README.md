@@ -1,8 +1,13 @@
-<p align="left">
+<p align="Center">
   <samp>
-    Hello, I'm Adiva Prayoga<br>
-    Just a random guy who do code<br>
-    I also do design and drawing sometimes.
+    Hello 👋 I'm Adiva Prayoga, just a random guy who do code<br>
+    <br>
+    I also do design and drawing as a hobby.
+    
+    <br>
+    <br>
+    
+    linkedin: <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a> | Email: <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
   </samp>
 </p>
 
