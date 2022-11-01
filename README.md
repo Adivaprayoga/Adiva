@@ -7,7 +7,7 @@
   <br>
   <br>
   <samp>
-    <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a>
+    Linkedin: <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a>
     <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
   </samp>
 </p>
