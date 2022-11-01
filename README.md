@@ -1,4 +1,4 @@
-<p align="Center">
+<p align="Left">
   <samp>
     Hello 👋 I'm Adiva Prayoga, just a random guy who do code<br>
     <br>
