@@ -4,11 +4,11 @@
     <br>
     I also do design and drawing as a hobby.
   </samp>
+  <br>
+  <br>
   <samp>
-    <br>
-    <br>
-    
-    linkedin: <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a> | Email: <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
+    <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a>
+    <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
   </samp>
 </p>
 
