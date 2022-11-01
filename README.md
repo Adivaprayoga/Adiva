@@ -8,7 +8,7 @@
   <br>
   <samp>
     Linkedin: <a href="https://www.linkedin.com/in/adiva-prayoga/">Adivaprayoga</a> |
-    <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
+    Email: <a href="mailto:prayoga.adiva@gmail.com">prayoga.adiva@gmail.com</a>
   </samp>
 </p>
 
