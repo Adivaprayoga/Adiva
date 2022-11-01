@@ -3,7 +3,8 @@
     Hello 👋 I'm Adiva Prayoga, just a random guy who do code<br>
     <br>
     I also do design and drawing as a hobby.
-    
+  </samp>
+  <samp>
     <br>
     <br>
     
