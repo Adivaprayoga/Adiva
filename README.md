@@ -2,7 +2,7 @@
 
   ![](https://komarev.com/ghpvc/?username=Adivaprayoga&color=red&style=flat)
   
-  ![tumblr_08e136265f0acb35b8c8127f26b0e2b7_8b231649_540](https://user-images.githubusercontent.com/32256496/218402066-a8ec08cf-c846-4e44-a380-b2e284fdfdbe.gif)
+  ![bocchi-bocchi-the-rock](https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/f85e73ca-1c20-4ede-b3b2-07e989938f48)
 
   <br>
   <samp>
