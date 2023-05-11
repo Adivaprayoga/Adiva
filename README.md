@@ -1,6 +1,4 @@
 <p align="Left">
-
-  ![](https://komarev.com/ghpvc/?username=Adivaprayoga&color=red&style=flat)
   
   ![bocchi-bocchi-the-rock](https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/f85e73ca-1c20-4ede-b3b2-07e989938f48)
 
