@@ -11,14 +11,18 @@
     <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/0c7bf6fd-7bd0-468d-b299-200018baf367" alt="drawing" style="width:200px;"/>
   </div>
 
-  <br>
+  <br><br>
 
   <p>
   I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and stupid projects. 
   
   Besides coding, I also have interests in UI design and drawing, even though I wouldn't consider myself an expert in those areas (yet!).
   </p>
+
+  <br>
   
+  ---
+
   <br>
 
   ### Skills
@@ -35,4 +39,3 @@
   ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![ubuntu](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 </div>
-
