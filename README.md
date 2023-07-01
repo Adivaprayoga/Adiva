@@ -11,7 +11,7 @@
     <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/0c7bf6fd-7bd0-468d-b299-200018baf367" alt="drawing" style="width:200px;"/>
   </div>
 
-  <br><br>
+  <br>
 
   <p>
   I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and stupid projects. 
