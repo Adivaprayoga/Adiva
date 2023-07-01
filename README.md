@@ -1,3 +1,7 @@
+## Hey There! 👋
+
+<br>
+
 <div align="center">
 
   <div style="display: inline;">
@@ -9,6 +13,11 @@
 
   <br><br>
 
+  <p>I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and stupid projects. Besides programming, I also have interests in UI design and drawing, even though I wouldn't consider myself an expert in those areas (yet!).</p>
+
+  <br>
+
+  ### Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,sass)](https://skillicons.dev)
 
   ### Tools
