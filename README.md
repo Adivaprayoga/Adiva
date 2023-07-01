@@ -11,10 +11,10 @@
   <br>
   
   <div style="display: inline;">
-    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b5b22b96-7541-4f15-a4ea-9d940ca44704" alt="drawing" style="width:225px;"/>
-    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b640219c-c2d3-445f-88ed-9ab5ceffe025" alt="drawing" style="width:225px;"/>
-    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/1f6e4a87-729d-44eb-b888-71b050c8ab26" alt="drawing" style="width:225px;"/>
-    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/0c7bf6fd-7bd0-468d-b299-200018baf367" alt="drawing" style="width:225px;"/>
+    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b5b22b96-7541-4f15-a4ea-9d940ca44704" alt="drawing" style="width:200px;"/>
+    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b640219c-c2d3-445f-88ed-9ab5ceffe025" alt="drawing" style="width:200px;"/>
+    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/1f6e4a87-729d-44eb-b888-71b050c8ab26" alt="drawing" style="width:200px;"/>
+    <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/0c7bf6fd-7bd0-468d-b299-200018baf367" alt="drawing" style="width:200px;"/>
   </div>
 
   <br>
