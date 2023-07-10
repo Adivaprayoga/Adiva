@@ -38,12 +38,5 @@
   ![ubuntu](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
   <br>
-  
-  ---
-
-  <br>
-
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64abdd2814678473bb5e4160?variant=dark&roadmaps=react%2Cfrontend%2Creact-native)](https://roadmap.sh)
-
 </div>
 
