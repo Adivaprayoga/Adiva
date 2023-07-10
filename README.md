@@ -43,7 +43,7 @@
 
   <br>
 
-  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64abdd2814678473bb5e4160?variant=dark&roadmaps=frontend%2Creact-native%2Creact)](https://roadmap.sh)
+  [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64abdd2814678473bb5e4160?variant=dark&roadmaps=react%2Cfrontend%2Creact-native)](https://roadmap.sh)
 
 </div>
 
