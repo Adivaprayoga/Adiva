@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="left">
-  I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and stupid projects.   
+  I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and fun projects.   
   </p>
   <p align="left">Besides coding, I also have interests in UI design and drawing, even though I wouldn't consider myself an expert in those areas (yet!).</p>
 
