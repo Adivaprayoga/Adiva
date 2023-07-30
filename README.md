@@ -1,15 +1,6 @@
-## Hi There! 👋
-
 <br>
 
 <div align="center">
-  <p align="left">
-  I'm a front-end developer based in Bali, Indonesia. Over the past few years, my main focus has been on React development. I have three years of professional experience in front-end development. In my free time, I enjoy working on random and fun projects.   
-  </p>
-  <p align="left">Besides coding, I also have interests in UI design and drawing, even though I wouldn't consider myself an expert in those areas (yet!).</p>
-
-  <br>
-  
   <div style="display: inline;">
     <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b5b22b96-7541-4f15-a4ea-9d940ca44704" alt="drawing" style="width:200px;"/>
     <img src="https://github.com/Adivaprayoga/Adivaprayoga/assets/32256496/b640219c-c2d3-445f-88ed-9ab5ceffe025" alt="drawing" style="width:200px;"/>
