@@ -6,7 +6,7 @@
 
   
 
-  ![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198390200943&show_in_game_bg=true)
+  ![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561198390200943&show_in_game_bg=true&show_recent_game_bg=true)
 
   <br>
 </div>
